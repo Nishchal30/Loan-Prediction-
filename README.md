@@ -17,4 +17,8 @@ Run app.py on command prompt using below command to start Flask API.
   python app.py
 By default, flask will run on port 5000 which is your localhost.
 
-Navigate to URL http://localhost:5000 you should be able to view the homepage as below:
+Navigate to URL http://localhost:5000 you should be able to view the homepage as given in project.jpg file in repository.
+
+Enter all the details asked on webpage properly and click Calculate the loan status button.
+
+If your input is valid, you should be able to see the status of loan acceptance whether you can get or not below the the button.
